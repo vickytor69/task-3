@@ -1,0 +1,1 @@
+This Python chatbot uses NLTK to understand and respond to simple user queries like greetings, asking its name, or requests for help. It works via pattern matching with easy-to-understand replies and runs in the terminal. A great beginner-friendly project demonstrating basic natural language processing.
